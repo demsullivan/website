@@ -1,0 +1,46 @@
+/*
+Theme Name: iDea - Clean & Powerful Bootstrap Theme
+Author: HtmlCoder
+Author URI: http://www.htmlcoder.me
+Author e-mail: htmlcoder.me@gmail.com
+Version: 1.0.0 
+Created: August 2014
+License URI: http://wrapbootstrap.com
+File Description: Place here your custom CSS styles
+*/
+
+.logo {
+    font-size: 36px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.logo-black {
+    color: #666;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+.logo-footer {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.logo-footer .black {
+    color: #000;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+#services h1 {
+    margin-top: 50px;
+}
+
+#about {
+    padding-bottom: 200px;
+}
+
+#portfolio {
+    margin-top: 50px;
+}
